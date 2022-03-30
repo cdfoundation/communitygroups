@@ -16,7 +16,7 @@ For all Continuous Delivery Community Groups, CDF offers the following benefits:
 * Video platform to host smaller events
 
 ## Best Practices
-Please check out our best_practices.
+Please check out our [best practices](https://github.com/cdfoundation/communitygroups/blob/main/best-practices.md).
 
 ## How to apply?
 The Continuous Delivery Community Group has to be created following the best practices described above.
@@ -36,7 +36,7 @@ The integration syncs events from Bevy to Meetup. It connects your Bevy group wi
 Please note:
 * The events sync between Bevy and Meetup is only available to the groups that have already joined the CDF Meetup Pro network before February 1, 2022!
 * To have the events sync with Meetup.com working correctly, please make sure that the ["CDF Meetup Account"](https://www.meetup.com/members/273946049/) is added to your group as a co-organizer! If this is not done, Bevy won't be able to create events on Meetup!
-The steps described above do not migrate the existing users from a Meetup group to the new Community Group. More details about this could be found at the FAQ.
+The steps described above do not migrate the existing users from a Meetup group to the new Community Group. More details about this could be found [in the FAQ](https://github.com/cdfoundation/communitygroups/blob/main/FAQ.md).
 
 ## Bevy Training
 The CNCF and Bevy organized the training session for the Community Groups organizers. It has been recorded and now available on [YouTube](https://www.youtube.com/watch?v=_rBdomoYlmc). The CDF will have it's own training session in May 2022.
@@ -55,7 +55,7 @@ If you have any technical difficulties with the platform itself, please reach ou
 The troubleshooting guide by Bevy is available [here](https://help.bevylabs.com/article/499-troubleshooting).
 
 ### FAQ
-Check out the full doc here.
+Check out the [full doc here](https://github.com/cdfoundation/communitygroups/blob/main/FAQ.md).
 
 ## Code of Conduct
 Continuous Delivery Community Groups follow the [CDF Code of Conduct](https://github.com/cdfoundation/.github/blob/main/CODE_OF_CONDUCT.md).
