@@ -8,7 +8,7 @@ Bevy is centralizing all CDF groups, across the globe –– making it easier fo
 ## FAQ - Switching from Meetup to Bevy
 
 ### Why is CDF switching over from Meetup to Bevy?
-We’ve switched to Bevy because we’ve heard your concerns. Meetup was not the best tool to build community, especially an online community. It was not easy to communicate with community members on Meetup, run online events, and it was hard to keep group members active and engaged or to gauge who was active or engaged. The ability to collect data was limited and ultimately, it felt like a very disjointed experience for CDF itself.
+We are switching to Bevy because we’ve heard your concerns. Meetup was not the best tool to build community, especially an online community. It was not easy to communicate with community members on Meetup, run online events, and it was hard to keep group members active and engaged or to gauge who was active or engaged. The ability to collect data was limited and ultimately, it felt like a very disjointed experience for CDF itself.
 
 ### When do I need to switch over from Meetup to Bevy?
 CDF will stop supporting groups on Meetup on Friday, December 31st, 2022. We can provide you instructions on how to create an account on Bevy if you haven’t already done so.
