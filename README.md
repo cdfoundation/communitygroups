@@ -21,7 +21,7 @@ Please check out our [best practices](https://github.com/cdfoundation/communityg
 ## How to apply?
 The Continuous Delivery Community Group has to be created following the best practices described above.
 * Visit https://community.cd.foundation/, and click "Log In" in the top right; you will be redirected to the Linux Foundation sign-in. Use your credentials or create a new account.
-* [Fill out this form](https://forms.gle/Q9Ct9pWfxMWAPiZ79)
+* [Fill out this form](https://forms.gle/2JSU5iTE56cCEc4T7)
 * Please note that this form is used for inviting the new Community Groups organizers only. If an active Community Group already exists in your region, please reach out to the organizers directly (do not use the form above—the submitted application will be declined).
 Once completed, CDF staff will provide you with access to your group.
 
@@ -31,7 +31,7 @@ To request a community chapter for a CDF project, please email [bevy@cd.foundati
 
 ## How to enable the sync with Meetup.com?
 The integration syncs events from Bevy to Meetup. It connects your Bevy group with your existing Meetup group and helps track member attendance and analytics. This integration requires adding the CDF Meetup Pro account as a co-organizer on your Meetup group.
-* The "CDF Meetup Account" has to be added to your Meetup Group (CDF staff is managing this account), so please apply via [this form](https://forms.gle/Q9Ct9pWfxMWAPiZ79) and include the Meetup Group URL. If you run multiple groups, please apply every time with the new group URL.
+* The "CDF Meetup Account" has to be added to your Meetup Group (CDF staff is managing this account), so please apply via [this form](https://forms.gle/2JSU5iTE56cCEc4T7) and include the Meetup Group URL. If you run multiple groups, please apply every time with the new group URL.
 * Once the CDF account joins your group, you'll need to follow the ["Appoint New Leadership Member" steps here:](https://help.meetup.com/hc/en-us/articles/360002879411-Managing-a-leadership-team) to add the [Continuous Delivery Foundation Meetup](https://www.meetup.com/members/273946049/) as co-organizer. Please see the [sample video](https://share.getcloudapp.com/8LujxJ85) on how to do this.
 Please note:
 * The events sync between Bevy and Meetup is only available to the groups that have already joined the CDF Meetup Pro network before February 1, 2022!
