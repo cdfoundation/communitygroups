@@ -1,4 +1,10 @@
+# CD Foundation CDF Community Groups are Deprecated
+
+CD Foundation community continues to meet using [CDF Meetup Groups](https://www.meetup.com/pro/cicd-cdf/).
+Please join the meetup group according to your preference and continue meeting with fellow community members and contribute to our efforts.
+
 # Continuous Delivery Community Groups
+
 ## Program description
 The Continuous Delivery Foundation supports the worldwide community of the Continuous Delivery Community Groups (CDCG): https://community.cd.foundation/ 
 
